@@ -11,6 +11,7 @@ django-heroku = "*"
 gunicorn = "*"
 psycopg2 = "*"
 python-decouple = "*"
+python-dotenv = "*"
 
 [dev-packages]
 
